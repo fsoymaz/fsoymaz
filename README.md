@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm TalhaAksoy</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=talhaaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="talhaaksoy" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaaksoy&row=1" alt="talhaaksoy" /></a> </p>
+<h1 align="center">Hi 👋, I'm Fatih Soymaz</h1>
 
 <details align="center">
 	<summary><b>Programming Language 💻</b></summary>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](src="https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png")
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
