@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fatih Soymaz</h1>
 
-<details align="center">
-	<summary><b>Programming Language 💻</b></summary>
+<details>
+  <summary><b>Programming Language 💻</b></summary>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java Logo](https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  <div align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="100">
+    <img src="https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png" alt="Java Logo" width="100">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="100">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" width="100">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width="100">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" alt="JSON" width="100">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="100">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" width="100">
+  </div>
 </details>
-
 <details align="center">
 	<summary><b>IDE 👩‍💻</b></summary>
 
