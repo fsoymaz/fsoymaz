@@ -4,7 +4,7 @@
 	<summary><b>Programming Language 💻</b></summary>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java]([https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png](https://camo.githubusercontent.com/6b3b97bfb977f6a724ec32597e4b7429194cc9f17fd363a6f272bb58219b208c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661))
+![Java](https://camo.githubusercontent.com/6b3b97bfb977f6a…96c653d666c61742d737175617265266c6f676f3d6a617661)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
