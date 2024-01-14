@@ -4,7 +4,7 @@
 	<summary><b>Programming Language 💻</b></summary>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png)
+![Java](https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png alt="Java Logo" width="100" height="100")
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -16,7 +16,6 @@
 <details align="center">
 	<summary><b>IDE 👩‍💻</b></summary>
 
-![Atom](https://img.shields.io/badge/Atom-000000?style=flat&logo=atom&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
