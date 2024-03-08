@@ -16,9 +16,9 @@
 </details>
 <details align="center">
 	<summary><b>IDE 👩‍💻</b></summary>
-
+	
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
