@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Soymaz</h1>
 
 <details>
-  <summary><b>Programming Language 💻</b></summary>
-
+  <summary><b>Programming Languages 💻</b></summary>
   <div align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="100">
     <img src="https://brandlogovector.com/wp-content/uploads/2020/07/Java-Logo-Small.png" alt="Java Logo" width="100">
@@ -14,22 +13,25 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" width="100">
   </div>
 </details>
-<details align="center">
-	<summary><b>IDE 👩‍💻</b></summary>
-	
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-![Clion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+<details>
+  <summary><b>IDEs 👩‍💻</b></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" alt="CLion" width="100">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black" alt="Notepad++" width="100">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" alt="PyCharm" width="100">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" alt="Vim" width="100">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Vscode" width="100">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="100">
+  </div>
 </details>
 
-<details align="center">
-	<summary><b>Library & Frameworks🚀</b></summary>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![ReactJs](https://img.shields.io/badge/React-00599C?style=flat&logo=react&logoColor=white&color=9cf)
+<details>
+  <summary><b>Libraries & Frameworks 🚀</b></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" alt="Git" width="100">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" width="100">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node" width="100">
+    <img src="https://img.shields.io/badge/React-00599C?style=flat&logo=react&logoColor=white&color=9cf" alt="ReactJs" width="100">
+  </div>
 </details>
