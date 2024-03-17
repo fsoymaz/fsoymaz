@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Soymaz</h1>
 
-<details>
   <summary><b>Programming Languages 💻</b></summary>
   <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -12,7 +11,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </p>
-</details>
 
 <details>
   <summary><b>IDEs 👩‍💻</b></summary>
